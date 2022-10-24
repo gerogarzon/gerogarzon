@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **as freelance but i am available for Contracts.**
 
-- 🌱 I’m currently learning **React js in its deep**
+- 🌱 I’m currently learning **React js in its deep.**
 
 - 👯 I’m looking to collaborate on **real projects that challenge me, and push me to enhance my development.**
 
